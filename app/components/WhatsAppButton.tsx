@@ -5,7 +5,7 @@ import React from 'react';
 export default function WhatsAppButton() {
   const handleClick = () => {
     const message = encodeURIComponent("Hi! I have a question about your products.");
-    window.open(`https://api.whatsapp.com/send?phone=919042686793&text=${message}`, '_blank');
+    window.open(`https://api.whatsapp.com/send?phone=917338975699&text=${message}`, '_blank');
   };
 
   return (

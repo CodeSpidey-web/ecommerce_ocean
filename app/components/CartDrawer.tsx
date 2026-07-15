@@ -52,7 +52,7 @@ export default function CartDrawer() {
 
     const encodedMessage = encodeURIComponent(message);
     // Using the phone number from the contact page
-    const phoneNumber = "919042686793"; 
+    const phoneNumber = "917338975699"; 
     const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodedMessage}`;
 
     window.open(whatsappUrl, '_blank');

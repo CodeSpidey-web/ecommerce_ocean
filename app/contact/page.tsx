@@ -87,7 +87,7 @@ export default function ContactPage() {
  Technical Sales Desk
  </span>
  <span className="font-black text-base sm:text-lg text-foreground mt-2 leading-none">
- +91 90426 86793
+ +91 73389 75699
  </span>
  </div>
  </div>
@@ -204,7 +204,7 @@ export default function ContactPage() {
  <div>
  <h4 className="text-[10px] uppercase font-bold text-muted-foreground mb-1">Contact Numbers</h4>
  <p className="text-[13px] font-semibold text-foreground">
- +91 90426 86793
+ +91 73389 75699
  </p>
  </div>
  </div>
